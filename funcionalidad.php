@@ -1,7 +1,7 @@
 <?php
 
-$num1 = 4;
-$num2 = 3;
+$num1 = 5;
+$num2 = 1;
 
 $suma = $num1 + $num2;
 echo $suma;
